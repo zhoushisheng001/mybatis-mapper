@@ -19,5 +19,7 @@ public class Application {
         paraMap.put("122","深圳");
         paraMap.put("123","北京");
         paraMap.put("124","广州");
+        paraMap.put("125","珠海");
+        paraMap.put("126","香港");
     }
 }
